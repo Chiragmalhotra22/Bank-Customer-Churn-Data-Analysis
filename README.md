@@ -57,9 +57,9 @@ To set up the project, follow these steps:
 ## Queries
 This project includes a collection of Analysis to extract useful information from the dataset.
 
-SQL queries link :- https://github.com/MeetP1703/Gun_violence_data/blob/main/gun_violence_data.sql
+SQL queries link :-[https://github.com/Chiragmalhotra22/Bank-Customer-Churn-Data-Analysis]
 
-##Insights
+## Insights
 
 Key insights derived from the analysis, including trends, patterns, and correlations in Bank customer churn data.
 
